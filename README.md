@@ -1,4 +1,5 @@
-# JAVA A1
+# JAVA
+# A1
 Java Logical Questions
 Rahul wants to become fit for which he decided to walk to the 
 office and return home by walking. It is known that Rahul's 
